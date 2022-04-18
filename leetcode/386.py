@@ -1,4 +1,7 @@
 class Solution:
+    """
+    暂无题解
+    """
     def lexicalOrder(self, n: int) -> list:
         res = []
 
